@@ -18,11 +18,9 @@ Enfim, é isto!
 Foi pensado para o layout algo que soasse como rede social, abusando de cantos arredondados. Se tratando de uma página estática, pensei em fazer uma interação bastante amigável e fácil com pouca informação na página principal.
 
 
-![[Captura de tela de 2022-01-14 11-31-53.png]]
+![Captura Home]('home.png')
 
 A página sobre o autor - no caso eu - também é essa sínteze, mas remetendo mais a colunas de revistas do universo pop - como as revistas Recreio, algo menos executivo como os editoriais voltados a temática de política e economia.
-
-![[Captura de tela de 2022-01-14 11-40-16.png]]
 
 A paleta de cores foi uma muito boa que encontrei no Pinterest.
 

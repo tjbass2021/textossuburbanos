@@ -1,17 +1,25 @@
 body{
-    background-color: #282a36;
+    background-color: #1d243d;
 }
 div{
-    background-color: #44475a;
-    width: 600px;
+    background-color: #353d60;
+    width: 1200px;
+    height: 800px;
     padding: 15px;
-    margin: 10px auto;
+    margin: 0px auto;
     border-radius: 80px;
-    font-family: Courier;
-    color: white;
+    box-shadow: -10px 10px 5px 0px #000000;
 
     
 
+}
+p, h1{
+    font-family: Courier;
+    font-size: 20px;
+    color: white;
+}
+h1{
+    font-size: 30px;
 }
 nav{
     font-weight: bold;
@@ -23,17 +31,21 @@ nav{
 }
 #navegador{
     font-family: Courier;
-    background-color: yellowgreen;
+    color: black;
+    background-color: #c6caeb;
+    border-left: 5px solid #9aa0c8;
+    border-bottom: 5px solid #9aa0c8;
     text-decoration: none;
     padding: 15px;
     margin: 10px;
-    border-left: 5px solid #bd93f9;
     border-radius: 80px;
+    box-shadow: -10px 10px 5px 0px #000000;
     
 }
 #poemas{
-    margin-left: 500px;
+    margin-left: 1100px;
     font-weight: bold;
+    font-size: 30px;
 }
 #nav{ /*Declarei um elemento <p> em nav englobando as tags <a>, onde seu id é este aqui, o 'nav' para poder centralizar os botões de link para paginação kkkkkkk - sim, uma gambiarra!*/
     text-align: center; 

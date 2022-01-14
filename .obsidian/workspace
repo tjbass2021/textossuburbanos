@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2651a1ba477449fb",
+        "id": "6878bd6563ae3968",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6c26e698243bf73f",
@@ -86,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2651a1ba477449fb",
+  "active": "6878bd6563ae3968",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "'home.png'.md"
   ]
 }
