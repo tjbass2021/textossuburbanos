@@ -18,7 +18,7 @@ Enfim, é isto!
 Foi pensado para o layout algo que soasse como rede social, abusando de cantos arredondados. Se tratando de uma página estática, pensei em fazer uma interação bastante amigável e fácil com pouca informação na página principal.
 
 
-![Captura Home]('home.png')
+![Captura Home](home.png)
 
 A página sobre o autor - no caso eu - também é essa sínteze, mas remetendo mais a colunas de revistas do universo pop - como as revistas Recreio, algo menos executivo como os editoriais voltados a temática de política e economia.
 
