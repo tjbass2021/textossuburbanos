@@ -22,9 +22,11 @@ Foi pensado para o layout algo que soasse como rede social, abusando de cantos a
 
 A página sobre o autor - no caso eu - também é essa sínteze, mas remetendo mais a colunas de revistas do universo pop - como as revistas Recreio, algo menos executivo como os editoriais voltados a temática de política e economia.
 
+![Captura "Sobre o Autor"](autor.png)
+
 A paleta de cores foi uma muito boa que encontrei no Pinterest.
 
-![[paleta.jpeg]]
+![Paleta](paleta.jpeg)
 
 Entendi que esse esquema de cores combinava mais coma temática dos textos que serão publicados. A paleta anterior não me agradava tanto nesse sentido.
 
