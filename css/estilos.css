@@ -58,6 +58,12 @@ nav{
 
 
 }
+#principal nav ul li{
+    display: inline;
+}
+#principal nav{
+    margin: 30px auto;
+}
 h1{
     text-align: center;
     width: 780px;
