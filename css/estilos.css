@@ -39,12 +39,12 @@ nav{
 #sobreuator{
     margin-left: 1000px;
 }
-#natal{
+#icone{
     width: 400px;
     margin: 2px auto;
 
 }
-#menu{
+.menu{
     font-family: Courier;
     color: black;
     background-color: #c6caeb;
